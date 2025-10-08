@@ -11,5 +11,5 @@ test("test 3", async ({ page }) => {
 });
 
 test("test 4", async({page})=>{
-  await page.goto("https://www.flipcart.com/")
+  await page.goto("https://www.flipkart.com/")
 })
